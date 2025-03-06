@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Sans:ital,wght@0,100..800;1,100..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+
+body, html {
+    font-family: "Ubuntu Sans", sans-serif; /* font-family: "Ubuntu Mono", monospace; | font-family: "Roboto", serif; */
+}
+
+a {
+    font-family: "JetBrains Mono", monospace; /* font-family: "Ubuntu Mono", monospace; | font-family: "Roboto", serif; */
+}
+
+.last-ip {
+    font-family: "Ubuntu Mono", monospace;
+    color: #FF5E5B;
+}
